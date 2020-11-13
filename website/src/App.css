@@ -1,12 +1,13 @@
 body {
   background-color: darkslateblue;
+  color: white;
 }
-a.hover {
+a {
   color: lightskyblue;
   text-decoration: none;
 }
 
-a.hover:hover {
+a:hover {
   text-decoration: underline;
 }
 .App {
