@@ -1,6 +1,14 @@
 body {
   background-color: darkslateblue;
 }
+a.hover {
+  color: lightskyblue;
+  text-decoration: none;
+}
+
+a.hover:hover {
+  text-decoration: underline;
+}
 .App {
   text-align: center;
 }
