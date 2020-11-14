@@ -2,7 +2,6 @@ import React from 'react';
 
 const Contact = () => (
   <div>
-    <h5>About Me</h5>
     <div className="contactLinks">
       <a href="https://www.linkedin.com/in/krista-singleton/" className="contact">
         <img src="./../../linkedin.png" alt="Linkedin"></img>

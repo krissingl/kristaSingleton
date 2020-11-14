@@ -3,7 +3,8 @@ import aboutMeData from '../data/aboutme.json';
 
 const AboutMe = () => (
   <div>
-    <p>{aboutMeData.data}</p>
+    <h5>About Me</h5>
+    <p className="aboutMe">>{aboutMeData.data}</p>
   </div>
 );
 
