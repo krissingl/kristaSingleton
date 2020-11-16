@@ -23,3 +23,8 @@ a:hover {
   text-align: center;
   margin: 0 210px 0 210px;
 }
+.component:hover {
+  color: darkslateblue;
+  background-color: aliceblue;
+  padding: 0px 10px 10px 10px;
+}
