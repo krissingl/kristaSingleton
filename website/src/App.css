@@ -1,5 +1,5 @@
 body {
-  background-color: darkslateblue;
+  background-color: rgb(24, 24, 104);
   color: white;
 }
 a {
@@ -9,6 +9,11 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+.styleToggle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }
 .contactLinks {
   display: flex;
